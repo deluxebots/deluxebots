@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deluxebots&show_icons=true&locale=en&layout=compact" alt="deluxebots" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkdev&show_icons=true&locale=en" alt="darkdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deluxebots&show_icons=true&locale=en" alt="deluxebotsss" /></p>
