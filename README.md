@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dark</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+<h1 align="center">Hi 👋, I'm Soul</h1>
+<h3 align="center">A passionate backend developer from Czechia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkdev&label=Profile%20views&color=0e75b6&style=flat" alt="deluxebots" /> </p>
 
-- 🔭 I’m currently working on [Deluxe Development](https://discord.gg/deluxe)
+- 🔭 I’m currently working on [LunaShield.cc]([https://discord.gg/deluxe](https://discord.gg/fWs7AH7FrR))
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/deluxe](https://discord.gg/deluxe)
-
-- 📫 How to reach me **https://discord.gg/deluxe**
+- 📫 How to reach me **https://discord.gg/fWs7AH7FrR**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/softycek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softycek" height="30" width="40" /></a>
-<a href="https://discord.gg/deluxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deluxe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/softycek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lunashield" height="30" width="40" /></a>
+<a href="https://discord.gg/deluxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LunaShield" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
