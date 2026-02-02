@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [LunaShield.cc]([https://discord.gg/deluxe](https://discord.gg/fWs7AH7FrR))
 
-- 📫 How to reach me **https://discord.gg/fWs7AH7FrR**
+- 📫 How to reach me? **https://discord.gg/fWs7AH7FrR**
 
 - ⚡ Fun fact **I think I am funny**
 
