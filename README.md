@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Crash&bg_color=0a0a0a&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Recent%20activity&font_color=ffffff" width="95%" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soul&bg_color=0a0a0a&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Recent%20activity&font_color=ffffff" width="95%" alt="Activity graph"/>
 </p>
 
 <p align="center">
