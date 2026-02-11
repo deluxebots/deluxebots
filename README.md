@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge-blue&logo=visualstudiocode&logoColor=blue&labelColor=1f6feb" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge-blue-🛡️&logo=visualstudiocode&logoColor=blue&labelColor=1f6feb" alt="Visual Studio Code"/>
 </p>
 
 <p align="center">
