@@ -1,13 +1,4 @@
-<h1 align="center">crash</h1>
-
-<p align="center">
-  <a href="https://crsh.dev">
-    <img src="https://img.shields.io/badge/crsh.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/00Crash">
-    <img src="https://img.shields.io/badge/00Crash-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub"/>
-  </a>
-</p>
+<h1 align="center">Soul <3</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
