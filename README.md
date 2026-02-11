@@ -13,17 +13,12 @@
   <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2c2d72" alt="Lua"/>
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1f6feb" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="C#"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/vs%20code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=000000" alt="Rider"/>
-  <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=000000" alt="WebStorm"/>
-  <img src="https://img.shields.io/badge/stack-web-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Web Stack"/>
 </p>
 
 <p align="center">
