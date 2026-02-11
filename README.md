@@ -6,18 +6,8 @@
   <img src="https://img.shields.io/badge/available-collab-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Open for collaboration"/>
 </p>
 
----
-
-<p align="center">
-  <b>web design & development</b><br>
-  <i>clean · fast · accessible</i>
-</p>
-
-<p align="center">
-  I build web experiences that don't waste your time.<br>
-  Research first, sketch the UX, design the UI, ship clean code.<br>
-  No overengineering. No dark patterns. Just functional, fast, minimal.
-</p>
+<p align="center"> <b>python · js · lua · html/css</b><br> <i>clean code · practical solutions · security focus</i> </p>
+<p align="center"> Currently building <b>LunaShield</b> — security infrastructure that actually makes sense.<br> No bloated frameworks. No unnecessary abstractions.<br> Just straightforward code, solid architecture, and things that work. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2c2d72" alt="Lua"/>
@@ -41,5 +31,5 @@
 </p>
 
 <p align="center">
-  <sub>Based in cz · Open for work · Clean code only</sub>
+  <sub>Based in CZ · Open for Work · Clean Code only</sub>
 </p>
