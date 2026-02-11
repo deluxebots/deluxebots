@@ -1,13 +1,54 @@
-<h1 align="center">Hi 👋, I'm Soul</h1>
-<h3 align="center">A passionate backend developer from Czechia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1398693712615309405/1467925634834763860/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966-ezgif.com-gif-maker.gif?ex=698227c8&is=6980d648&hm=4f1539f26ab1d29a65640f0c0880675cf789ed9b9cb23bd30999a02f072fe624&">
+<h1 align="center">crash</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkdev&label=Profile%20views&color=0e75b6&style=flat" alt="darkdev" /> </p>
+<p align="center">
+  <a href="https://crsh.dev">
+    <img src="https://img.shields.io/badge/crsh.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/00Crash">
+    <img src="https://img.shields.io/badge/00Crash-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub"/>
+  </a>
+</p>
 
-- 🛡️ I’m currently working on [LunaShield.cc]([https://discord.gg/deluxe](https://discord.gg/fWs7AH7FrR))
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/location-cz-1f6feb?style=for-the-badge&logo=google-maps&logoColor=white" alt="Czech Republic"/>
+  <img src="https://img.shields.io/badge/available-collab-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Open for collaboration"/>
+</p>
 
-- 📫 How to reach me? **https://discord.gg/fWs7AH7FrR**
+---
 
-- 😝 Fun fact **I think I am funny**
+<p align="center">
+  <b>web design & development</b><br>
+  <i>clean · fast · accessible</i>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xdpsoul0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  I build web experiences that don't waste your time.<br>
+  Research first, sketch the UX, design the UI, ship clean code.<br>
+  No overengineering. No dark patterns. Just functional, fast, minimal.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2c2d72" alt="Lua"/>
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1f6feb" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="C#"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/vs%20code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=000000" alt="Rider"/>
+  <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=000000" alt="WebStorm"/>
+  <img src="https://img.shields.io/badge/stack-web-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Web Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Crash&bg_color=0a0a0a&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Recent%20activity&font_color=ffffff" width="95%" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <sub>based in cz · open for work · clean code only</sub>
+</p>
