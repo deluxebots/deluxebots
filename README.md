@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <sub>based in cz · open for work · clean code only</sub>
+  <sub>Based in cz · Open for work · Clean code only</sub>
 </p>
