@@ -1,9 +1,9 @@
 <h1 align="center">Soul <3</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-online-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/status-protected-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/location-cz-1f6feb?style=for-the-badge&logo=google-maps&logoColor=white" alt="Czech Republic"/>
-  <img src="https://img.shields.io/badge/available-collab-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Open for collaboration"/>
+  <img src="https://img.shields.io/badge/collabs-available-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Open for collaboration"/>
 </p>
 
 <p align="center"> <b>python · js · lua · html/css</b><br> <i>clean code · practical solutions · security focus</i> </p>
